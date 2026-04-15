@@ -1,0 +1,19 @@
+# Velytra
+
+Velytra is a multisport training and coaching platform. This site presents the public brand, core product positioning, and launch information.
+
+Languages:
+- Català: `/ca/` (full V1)
+- English: `/en/` (under construction)
+- Español: `/es/` (under construction)
+
+Key pages in Catalan:
+- Home: `/ca/`
+- Functionalities: `/ca/funcionalitats/`
+- Athletes: `/ca/atletes/`
+- Coaches: `/ca/entrenadors/`
+- FAQ: `/ca/faq/`
+- Download: `/ca/descarrega/`
+- Contact: `/ca/contacte/`
+- Privacy: `/ca/privacitat/`
+- Terms: `/ca/termes/`

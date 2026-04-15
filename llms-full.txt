@@ -1,0 +1,32 @@
+# Velytra (Extended LLM Context)
+
+Velytra is positioned as a multisport training platform that connects workouts, analytics, follow-up, and communication between athlete and coach in one workspace.
+
+Core positioning:
+- Train with more context
+- Not just logging, not just metrics, not just chat
+- Built to support both athletes and coaches
+- Designed to adapt across different sports
+
+Current website scope:
+- Catalan-first public launch website
+- English and Spanish routes already exist but are placeholders marked under construction
+- Public contact email: velytra@onmedic.org
+
+Catalan V1 page set:
+- `/ca/`
+- `/ca/funcionalitats/`
+- `/ca/atletes/`
+- `/ca/entrenadors/`
+- `/ca/faq/`
+- `/ca/descarrega/`
+- `/ca/contacte/`
+- `/ca/privacitat/`
+- `/ca/termes/`
+
+Store links:
+- App Store: not public yet
+- Google Play: not public yet
+
+Brand statement:
+Velytra és una plataforma multi-esport que uneix entrenaments, analítica i seguiment entre atleta i entrenador per entrenar amb més criteri.
