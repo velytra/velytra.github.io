@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://velytra.github.io/sitemap-index.xml
+Sitemap: https://www.velytra.org/sitemap-index.xml
+
+# AI-readable site overview: https://www.velytra.org/llms.txt

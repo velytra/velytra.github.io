@@ -1,5 +1,8 @@
 # Velytra
 
+Canonical site: https://www.velytra.org/
+Last updated: 2026-07-12
+
 Velytra is a multisport training and coaching platform. This site presents the public brand, core product positioning, and launch information.
 
 Languages:
@@ -17,3 +20,8 @@ Key pages in Catalan:
 - Contact: `/ca/contacte/`
 - Privacy: `/ca/privacitat/`
 - Terms: `/ca/termes/`
+
+## App links
+
+- App Store: https://apps.apple.com/es/app/velytra/id6761991315
+- Google Play: https://play.google.com/store/apps/details?id=app.arnohealth.velytra

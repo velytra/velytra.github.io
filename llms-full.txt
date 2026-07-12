@@ -1,5 +1,8 @@
 # Velytra (Extended LLM Context)
 
+Canonical site: https://www.velytra.org/
+Last updated: 2026-07-12
+
 Velytra is positioned as a multisport training platform that connects workouts, analytics, follow-up, and communication between athlete and coach in one workspace.
 
 Core positioning:
@@ -25,8 +28,8 @@ Catalan V1 page set:
 - `/ca/termes/`
 
 Store links:
-- App Store: not public yet
-- Google Play: not public yet
+- App Store: https://apps.apple.com/es/app/velytra/id6761991315
+- Google Play: https://play.google.com/store/apps/details?id=app.arnohealth.velytra
 
 Brand statement:
 Velytra és una plataforma multi-esport que uneix entrenaments, analítica i seguiment entre atleta i entrenador per entrenar amb més criteri.
