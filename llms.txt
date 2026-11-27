@@ -6,12 +6,12 @@ Canonical site: https://www.velytra.org/
 Last updated: 2026-11-27
 
 ## Languages
-- [Català (full V1)](https://www.velytra.org/ca/)
-- [English](https://www.velytra.org/en/)
+- [English (default)](https://www.velytra.org/)
+- [Català](https://www.velytra.org/ca/)
 - [Español](https://www.velytra.org/es/)
 
-## Key pages (Catalan)
-- [Home](https://www.velytra.org/ca/): Main landing page
+## Key pages
+- [Home (EN)](https://www.velytra.org/): Main landing page
 - [Functionalities](https://www.velytra.org/ca/funcionalitats/): Platform capabilities
 - [Athletes](https://www.velytra.org/ca/atletes/): Athlete experience
 - [Coaches](https://www.velytra.org/ca/entrenadors/): Coach workflows
